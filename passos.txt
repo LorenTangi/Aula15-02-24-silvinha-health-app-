@@ -12,4 +12,4 @@ Criar o projeto no github
  npm i
 
   abrir(executar)
- npx expo start --localhost --android
+ npx expo start --android --localhost 
