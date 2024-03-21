@@ -11,5 +11,5 @@ Criar o projeto no github
  BAIXAR (RESTAURAR) PROJETO *FAZER ISSO TDS AS VEZES*
  npm i
 
-  abrir(executar)
+  abrir(executar)   
  npx expo start --android --localhost 
